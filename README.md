@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/Availability-35--40h%2Fweek%20Remote-brightgreen?style=for-the-badge" alt="Availability" />
 </p>
 
+<p align="center">
+  <a href="https://tvt987.github.io" target="_blank"><img src="https://img.shields.io/badge/Live%20Architecture%20Lab-Interactive%20Simulation%20Demo-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Architecture Lab" /></a>
+</p>
+
 ---
 
 ### 🏛️ Executive Summary & Production Track Record
