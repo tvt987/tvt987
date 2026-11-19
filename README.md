@@ -1,87 +1,74 @@
-<h1 align="center">Hi 👋, I'm Truong Van Tinh (Tinh Truong)</h1>
-<h3 align="center">Enterprise Solution Architect | High-Concurrency .NET 8 & Distributed Cloud Systems</h3>
+<h1 align="center">Hi 👋, I'm Truong Van Tinh</h1>
+<h3 align="center">Full-Stack .NET 8 & Applied AI Engineer | High-Throughput Backend & Remote B2B Contractor</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/trương-văn-tình-651b12289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-v%C4%83n-t%C3%ACnh-651b12289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tinhkun102@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/tvt987"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Availability-35--40h%2Fweek%20Remote-brightgreen?style=for-the-badge" alt="Availability" />
-</p>
-
-<p align="center">
-  <a href="https://tvt987.github.io" target="_blank"><img src="https://img.shields.io/badge/Live%20Architecture%20Lab-Interactive%20Simulation%20Demo-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Architecture Lab" /></a>
+  <a href="https://tvt987.github.io" target="_blank"><img src="https://img.shields.io/badge/Interactive%20Portfolio-Architecture%20Lab-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interactive Portfolio" /></a>
+  <img src="https://img.shields.io/badge/Remote%20B2B%20%2F%20Freelance-%2425--%2445%2Fhr%20%7C%20Milestones-10b981?style=for-the-badge" alt="Availability" />
 </p>
 
 ---
 
-### 🏛️ Executive Summary & Production Track Record
+### Engineering Background & Production Experience
 
-I am an **Enterprise Solution Architect & Senior Software Engineer** with 3+ years of commercial production experience specializing in ultra-high-throughput architectures, distributed transactional backends, and resilient cloud services.
+I am a **Full-Stack .NET & Applied AI Engineer** with 3+ years of software development experience shipping production retail backend APIs, Angular workflows, SQL Server/Dapper data access layers, and Python/FastAPI LLM & RAG automation.
 
-- 🛒 **Core Architect @ Con Cung Corporation** (Vietnam's #1 Retail Enterprise, 700+ hypermarkets nationwide):
-  - Engineered the mission-critical **Promotion & Voucher Validation Engine** processing **5,000+ RPS** during flash-sale peaks.
-  - Slashed **p99 response latency from 800ms to sub-45ms**, unlocking seamless real-time POS checkouts across 700+ physical stores.
-  - Designed distributed **Optimistic Concurrency Controls** with Redis and Dapper, eliminating **100% of race conditions and voucher double-spending** under high contention.
-- ⚡ **Technical Excellence**: .NET 8, C#, Clean Architecture, Dapper high-performance micro-ORM, SQL Server query tuning, Redis distributed caching, Keycloak OAuth 2.0 / OIDC, Docker, Kubernetes, and CI/CD pipelines.
-- 🤖 **Applied AI & RAG Engineering**: Production-ready hybrid search (BM25 + Dense Vector Embeddings), semantic chunking, prompt caching, token budget enforcement, and LangChain/FastAPI orchestration.
-
----
-
-### 📊 Production Scale & Benchmark Proof Metrics
-
-```
-+-----------------------------------------------------------------------------------+
-|  METRIC                          |  LEGACY / BASELINE  |  ARCHITECTED PRODUCTION  |
-+-----------------------------------------------------------------------------------+
-|  Peak Throughput Handling        |  ~800 RPS           |  5,000+ RPS (Stress-test)|
-|  p99 Transaction Latency         |  800ms - 1,200ms    |  < 45ms                  |
-|  Voucher Double-Spending Rate    |  Intermittent Race  |  0.0% (Zero Tolerated)   |
-|  Physical Enterprise Footprint   |  Store Network      |  700+ Hypermarkets       |
-|  Security & IAM Protocol         |  Basic Sessions     |  Keycloak OAuth2 / OIDC  |
-+-----------------------------------------------------------------------------------+
-```
+- **Full-Stack Developer @ Con Cung** *(Nov 2023 – Present — Vietnam's nationwide mother-and-baby retail chain)*:
+  - Delivered **.NET & AngularJS voucher search, creation, and update workflows** with permission checks, promotion validation, and pre-batch Excel preview.
+  - Mapped **SQL Server stored procedures to typed Dapper models** across 7 subscription benefit calculations (3-, 6-, and 12-month plans) and verified ERP API contracts.
+  - Designed retail data structures (shelves, facings, display groups) for store-layout optimization and implemented **Keycloak JWT / OAuth 2.0 / OIDC** authentication and RBAC.
+  - Integrated **vector semantic search** into a commerce portal, built **n8n** market-intelligence scraping pipelines, and engineered automated debug/test loops with Claude + MCP + Agent Skills.
+- **Frontend Intern @ FPT** *(Sep 2023 – Nov 2023)*: Built Angular / JavaScript UI components, integrated e-commerce REST APIs, and fixed responsive mobile defects.
 
 ---
 
-### 🛠️ Core Technology Matrix
+### Remote B2B / Fixed-Scope Freelance Services
+*Available immediately for remote B2B contracts, async feature delivery, and fixed-scope milestones (`UTC+7`, flexible EU/APAC/US overlap) — transparent entry pricing **`$25–$45/hr USD`** or **`$400–$1,500` per milestone**:*
+
+| Service Engagement | Scope & Deliverables | Target Budget |
+| :--- | :--- | :--- |
+| **1. SQL Server / Dapper Query & API Optimization** | Execution plan audit, stored procedure & Dapper refactor, N+1 removal, Redis cache-aside guard | **$400 – $800** *(Milestone)* |
+| **2. .NET 8 Web API, Concurrency & Idempotency** | Clean Architecture REST endpoints, optimistic locking (`RowVersion`), idempotency keys, xUnit + integration tests | **$25 – $45/hr** *(or Fixed Sprint)* |
+| **3. Python FastAPI RAG & AI Workflow Automation** | Document parsing + Qdrant/vector retrieval with citations, Pydantic output validation, n8n pipelines | **$600 – $1,500** *(Milestone)* |
+
+---
+
+### Core Technology Matrix
 
 ```mermaid
 flowchart LR
-    A[Client Traffic / 700+ Stores] --> B[API Gateway & Rate Limiter]
-    B --> C[Keycloak OAuth 2.0 / JWT]
-    C --> D[.NET 8 Clean Architecture Core]
-    D --> E[(Redis Distributed Cache)]
-    D --> F[(SQL Server / Dapper High-Perf)]
-    D --> G[Message Broker / Kafka / RabbitMQ]
+    A[Client Apps / Angular 19 / React] --> B[ASP.NET Core .NET 8 / FastAPI]
+    B --> C[Keycloak OAuth 2.0 / OIDC / RBAC]
+    B --> D[(Redis Cache & Atomic Lua)]
+    B --> E[(SQL Server / Dapper / PostgreSQL)]
+    B --> F[Qdrant Vector DB / LLM & n8n Pipelines]
 ```
 
-- **Backend & Cloud Architecture**: .NET 8, C#, Clean Architecture, CQRS, Dapper, Entity Framework Core, ASP.NET Core Web API, gRPC, Docker, Kubernetes.
-- **Data & Distributed Systems**: Microsoft SQL Server (Index Tuning, Stored Procedures, Execution Plans), Redis (Optimistic Locking, Distributed Caching), PostgreSQL.
-- **Frontend & Full-Stack**: Vue 3, Angular, TypeScript, Modern Component Systems.
-- **Applied AI & ML**: Python, FastAPI, LangChain, Hybrid RAG (BM25 + Chroma/Qdrant), Cross-Encoder Reranking, Token Budgets.
-- **Security & DevOps**: Keycloak (OIDC/OAuth 2.0), Linux, GitHub Actions, OpenTelemetry, Prometheus, Grafana.
+- **Backend & Concurrency**: C#, .NET 8, ASP.NET Core, Minimal APIs, Dapper, EF Core, Clean Architecture, RabbitMQ, Polly, FluentValidation, xUnit.
+- **Data & Caching**: Microsoft SQL Server (Stored Procedures, Indexing, Query Tuning, RowVersion), PostgreSQL, Redis (Atomic Lua Scripting, Cache-Aside).
+- **Frontend**: Angular, Angular 19 (RxJS, NgRx SignalStore), AngularJS, TypeScript, JavaScript, React, Tailwind CSS.
+- **Applied AI & Automation**: Python, FastAPI, LangChain (LCEL), Qdrant, RAG with citation verification & abstention, Pydantic, n8n, Docker, GitHub Actions CI/CD.
 
 ---
 
-### 🌟 Featured Architecture Showcase Repositories
+### Featured Verified Public Repositories
 
-#### 1. [High-Concurrency Retail Voucher Engine (.NET 8 + Redis)](https://github.com/tvt987/high-concurrency-voucher-engine)
-> *Production-grade reference implementation demonstrating optimistic concurrency controls, distributed idempotency keys, and sub-45ms checkout response benchmarks under 5,000 RPS.*
-- **Stack**: .NET 8, C#, Dapper, Redis Distributed Lock, k6 benchmark suite.
-
-#### 2. [Enterprise Windows Security Monitoring Platform](https://github.com/tvt987)
-> *Resilient, low-overhead Windows background service capturing kernel ETW events, USB attachment lifecycles, and security logs with automated alerting pipelines.*
-- **Stack**: C#, .NET 9, Windows Services, Event Tracing for Windows (ETW), Automated Test Suites.
-
-#### 3. [Hybrid-Search Enterprise RAG Orchestrator](https://github.com/tvt987)
-> *Scalable Applied AI pipeline combining lexical BM25 search with dense vector embeddings, dynamic semantic chunking, and strict token budget enforcement.*
-- **Stack**: Python 3.12, FastAPI, LangChain, ChromaDB, Pydantic Schema Validation.
+1. **[High-Concurrency Voucher Engine (.NET 8 + Redis + Dapper)](https://github.com/tvt987/high-concurrency-voucher-engine)**
+   Reference architecture for flash-sale voucher redemption featuring Redis atomic Lua quota guards, SQL Server `RowVersion` optimistic concurrency, strict idempotency keys, k6 stress-test scripts, Docker Compose + SQL DDL, and an automated xUnit concurrency test suite.
+2. **[Partner Integration BFF (.NET 8 + RabbitMQ + Polly)](https://github.com/tvt987/partner-integration-bff)**
+   Resilient Backend-for-Frontend handling partner transactions with constant-time API-key auth, FluentValidation, idempotent `202` replay / `409` conflict semantics, Polly retry/timeout policies, `ProblemDetails`, and `WebApplicationFactory` integration tests.
+3. **[Retail RAG Assistant (Python + FastAPI + Qdrant + LangChain)](https://github.com/tvt987/retail-rag-assistant)**
+   Document question-answering API with Markdown/HTML/PDF preprocessing, Qdrant vector retrieval, LangChain LCEL citations, low-confidence abstention / extractive fallback, and automated groundedness evaluation tests in CI.
+4. **[Support Ticket AI Triage (Python + FastAPI + SQLite + Docker)](https://github.com/tvt987/support-ticket-ai-triage)**
+   Automated LLM triage service for 5 ticket categories with PII/contact masking, rule-based urgency overrides, token-protected human review endpoints, and verified persistence/HTTP scenario tests.
 
 ---
 
-### 📬 Let's Connect & Collaborate
+### Connect & Collaborate
 
+- **Portfolio & Architecture Demos**: [tvt987.github.io](https://tvt987.github.io)
 - **Email**: [tinhkun102@gmail.com](mailto:tinhkun102@gmail.com)
-- **Hotline**: (+84) 931 467 024
-- **LinkedIn**: [linkedin.com/in/trương-văn-tình-651b12289](https://www.linkedin.com/in/trương-văn-tình-651b12289/)
-- **Location**: Ho Chi Minh City, Vietnam (Global Remote Contractor Availability: 35–40 hrs/week)
+- **Phone / Zalo**: (+84) 931 467 024
+- **LinkedIn**: [linkedin.com/in/trương-văn-tình-651b12289](https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-v%C4%83n-t%C3%ACnh-651b12289/)
+- **Location**: Ho Chi Minh City, Vietnam (`UTC+7` · Remote B2B Contractor / Fixed-Scope Freelance)
