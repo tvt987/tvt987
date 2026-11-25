@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-v%C4%83n-t%C3%ACnh-651b12289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tinhkun102@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://tvt987.github.io/aegispulse-distributed-sre/" target="_blank"><img src="https://img.shields.io/badge/%E2%9A%A1%20AegisPulse%20Live-139K%20RPS%20.NET%2010%20%2B%20Hybrid%20RAG-f59e0b?style=for-the-badge" alt="AegisPulse Live Control Plane" /></a>
   <a href="https://tvt987.github.io" target="_blank"><img src="https://img.shields.io/badge/Interactive%20Portfolio-Architecture%20Lab-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interactive Portfolio" /></a>
   <img src="https://img.shields.io/badge/Remote%20B2B%20%2F%20Freelance-%2425--%2445%2Fhr%20%7C%20Milestones-10b981?style=for-the-badge" alt="Availability" />
 </p>
@@ -54,13 +55,15 @@ flowchart LR
 
 ### Featured Verified Public Repositories
 
-1. **[High-Concurrency Voucher Engine (.NET 8 + Redis + Dapper)](https://github.com/tvt987/high-concurrency-voucher-engine)**
+1. **[⚡ AegisPulse — Distributed Concurrency Kernel & Autonomous SRE Control Plane (.NET 10 + FastAPI Hybrid RAG + React 19)](https://github.com/tvt987/aegispulse-distributed-sre)** · **[🚀 Live Interactive Control Plane](https://tvt987.github.io/aegispulse-distributed-sre/)**
+   Flagship polyglot system pairing a high-throughput C# / `.NET 10` transaction kernel (**`139,099 RPS`**, **`0` double-spend leaks** across `10,000` concurrent bursts, lock-free atomic quota + `System.Threading.Channels` write-behind WAL, SHA-256 `Idempotency-Key` `409` guard, W3C OpenTelemetry trace waterfall) with a Python `3.12` FastAPI **Okapi BM25 + 384-d Dense Vector RRF (`k=60`)** SRE Co-Pilot (**`100%` Recall@1**, **`100%` adversarial OOD abstention**) and dual-runtime React 19 Mission Control (`18/18` `.NET + Python + Vitest` tests passing in GitHub Actions CI).
+2. **[High-Concurrency Voucher Engine (.NET 8 + Redis + Dapper)](https://github.com/tvt987/high-concurrency-voucher-engine)**
    Reference architecture for flash-sale voucher redemption featuring Redis atomic Lua quota guards, SQL Server `RowVersion` optimistic concurrency, strict idempotency keys, k6 stress-test scripts, Docker Compose + SQL DDL, and an automated xUnit concurrency test suite.
-2. **[Partner Integration BFF (.NET 8 + RabbitMQ + Polly)](https://github.com/tvt987/partner-integration-bff)**
+3. **[Partner Integration BFF (.NET 8 + RabbitMQ + Polly)](https://github.com/tvt987/partner-integration-bff)**
    Resilient Backend-for-Frontend handling partner transactions with constant-time API-key auth, FluentValidation, idempotent `202` replay / `409` conflict semantics, Polly retry/timeout policies, `ProblemDetails`, and `WebApplicationFactory` integration tests.
-3. **[Retail RAG Assistant (Python + FastAPI + Qdrant + LangChain)](https://github.com/tvt987/retail-rag-assistant)**
+4. **[Retail RAG Assistant (Python + FastAPI + Qdrant + LangChain)](https://github.com/tvt987/retail-rag-assistant)**
    Document question-answering API with Markdown/HTML/PDF preprocessing, Qdrant vector retrieval, LangChain LCEL citations, low-confidence abstention / extractive fallback, and automated groundedness evaluation tests in CI.
-4. **[Support Ticket AI Triage (Python + FastAPI + SQLite + Docker)](https://github.com/tvt987/support-ticket-ai-triage)**
+5. **[Support Ticket AI Triage (Python + FastAPI + SQLite + Docker)](https://github.com/tvt987/support-ticket-ai-triage)**
    Automated LLM triage service for 5 ticket categories with PII/contact masking, rule-based urgency overrides, token-protected human review endpoints, and verified persistence/HTTP scenario tests.
 
 ---
