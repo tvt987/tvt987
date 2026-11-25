@@ -55,6 +55,8 @@ flowchart LR
 
 ### Featured Verified Public Repositories
 
+0. **[Hyperion Atelier — Real-Time WebGL2 SDF Raymarching & Off-Main-Thread Distributed/Vector Lab (React 19 + Three.js GLSL + Web Workers)](https://github.com/tvt987/hyperion-atelier)** · **[Live Primary Domain (tvt987.github.io)](https://tvt987.github.io/)**
+   Swiss-industrial creative engineering studio featuring 60-step GLSL Signed-Distance-Field ferrofluid raymarching, dedicated Web Worker simulations (Consistent Hashing virtual-token failover, 5-node Raft Consensus quorum election, 3-layer 384-d HNSW vector beam search), native View Transitions circular aperture morphing, procedural Web Audio synthesis, Lenis & GSAP.
 1. **[⚡ AegisPulse — Distributed Concurrency Kernel & Autonomous SRE Control Plane (.NET 10 + FastAPI Hybrid RAG + React 19)](https://github.com/tvt987/aegispulse-distributed-sre)** · **[🚀 Live Interactive Control Plane](https://tvt987.github.io/aegispulse-distributed-sre/)**
    Flagship polyglot system pairing a high-throughput C# / `.NET 10` transaction kernel (**`139,099 RPS`**, **`0` double-spend leaks** across `10,000` concurrent bursts, lock-free atomic quota + `System.Threading.Channels` write-behind WAL, SHA-256 `Idempotency-Key` `409` guard, W3C OpenTelemetry trace waterfall) with a Python `3.12` FastAPI **Okapi BM25 + 384-d Dense Vector RRF (`k=60`)** SRE Co-Pilot (**`100%` Recall@1**, **`100%` adversarial OOD abstention**) and dual-runtime React 19 Mission Control (`18/18` `.NET + Python + Vitest` tests passing in GitHub Actions CI).
 2. **[High-Concurrency Voucher Engine (.NET 8 + Redis + Dapper)](https://github.com/tvt987/high-concurrency-voucher-engine)**
