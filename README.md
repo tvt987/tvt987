@@ -1,21 +1,38 @@
-<h1 align="center">Hi 👋, I'm Truong Van Tinh</h1>
-<h3 align="center">Full-Stack .NET 8 & Applied AI Engineer | High-Throughput Backend & Remote B2B Contractor</h3>
+﻿<h1 align="center">Truong Van Tinh</h1>
+<h3 align="center">Full-Stack .NET / Python & Applied AI Systems Engineer | High-Throughput Backend, Agentic Protocols & Remote B2B Contractor</h3>
 
+<p align="center">
+  <a href="https://tvt987.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Hyperion%20Atelier%20v2.0-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interactive Portfolio" /></a>
+  <a href="https://tvt987.github.io/nexus-lake/" target="_blank"><img src="https://img.shields.io/badge/Nexus%20Lake-DuckDB--WASM%20%2B%20Yjs%20%2B%20MCP-ff5500?style=for-the-badge" alt="Nexus Lake Live" /></a>
+  <a href="https://tvt987.github.io/verdict-graph/" target="_blank"><img src="https://img.shields.io/badge/Verdict%20Graph-MCP%20x%20A2A%20x%20AG--UI-38bdf8?style=for-the-badge" alt="Verdict Graph Live" /></a>
+  <a href="https://tvt987.github.io/aether-acoustics/" target="_blank"><img src="https://img.shields.io/badge/Aether%20Acoustics-3D%20PBR%20Store%20%2B%20DSP-c8a97e?style=for-the-badge" alt="Aether Acoustics Live" /></a>
+  <a href="https://tvt987.github.io/aegispulse-distributed-sre/" target="_blank"><img src="https://img.shields.io/badge/AegisPulse-139K%20RPS%20.NET%2010%20%2B%20RAG-10b981?style=for-the-badge" alt="AegisPulse Live" /></a>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-v%C4%83n-t%C3%ACnh-651b12289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tinhkun102@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://tvt987.github.io/aegispulse-distributed-sre/" target="_blank"><img src="https://img.shields.io/badge/%E2%9A%A1%20AegisPulse%20Live-139K%20RPS%20.NET%2010%20%2B%20Hybrid%20RAG-f59e0b?style=for-the-badge" alt="AegisPulse Live Control Plane" /></a>
-  <a href="https://tvt987.github.io" target="_blank"><img src="https://img.shields.io/badge/Interactive%20Portfolio-Architecture%20Lab-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interactive Portfolio" /></a>
   <img src="https://img.shields.io/badge/Remote%20B2B%20%2F%20Freelance-%2425--%2445%2Fhr%20%7C%20Milestones-10b981?style=for-the-badge" alt="Availability" />
 </p>
 
 ---
 
+### Live Interactive Flagship Systems (100% CI Green · Zero-Setup GitHub Pages)
+
+| Flagship System | Live Demo | Stack & Verified Benchmarks |
+| :--- | :--- | :--- |
+| **[Nexus Lake](https://github.com/tvt987/nexus-lake)** | **[Live Workbench](https://tvt987.github.io/nexus-lake/)** | Self-hosted **DuckDB-WASM** + **Apache Arrow** (100K–500K rows in-browser), **Yjs CRDT** offline partition/merge (`166 B` delta), **WebGPU WGSL** anomaly canvas, **AG-UI** Generative BI Copilot, standalone **TypeScript MCP Server** with SQL AST guardrails (`22/22` Vitest CI). |
+| **[Verdict Graph](https://github.com/tvt987/verdict-graph)** | **[Live Control Plane](https://tvt987.github.io/verdict-graph/)** | Polyglot **Python 3.12 FastAPI** + **React 19** cyclic 6-node multi-agent orchestrator with **MCP 2.0**, **A2A AgentCard/Tasks**, **AG-UI SSE**, **HITL interrupts**, indirect prompt-injection blocking (`INJ-EXFIL-001`), immutable **Time-Travel Checkpoint Forking** (`+0.38` groundedness, `-52.2%` cost), and **OpenTelemetry GenAI** waterfall (`27/27` Pytest + Vitest CI). |
+| **[Aether Acoustics](https://github.com/tvt987/aether-acoustics)** | **[Live 3D Store](https://tvt987.github.io/aether-acoustics/)** | Luxury spatial audio e-commerce store featuring a 5-layer **Three.js PBR** 3D CNC configurator, **Lenis + GSAP** scroll-choreographed exploded anatomy, live **Web Audio API DSP** spatial audition lab, 6-SKU catalog, idempotent voucher engine, and 3-step 3D-card checkout with digital certificate (`17/17` Vitest CI). |
+| **[AegisPulse](https://github.com/tvt987/aegispulse-distributed-sre)** | **[Live SRE Cockpit](https://tvt987.github.io/aegispulse-distributed-sre/)** | **C# `.NET 10`** high-concurrency kernel (**`139,099 RPS`**, **`0` double-spend** across `10,000` bursts, `Channel<T>` WAL, SHA-256 `Idempotency-Key` `409`) + **FastAPI Okapi BM25 + 384-d RRF** SRE Co-Pilot (`100%` Recall@1 & OOD abstention, `18/18` CI). |
+| **[Hyperion Atelier v2.0](https://github.com/tvt987/hyperion-atelier)** | **[tvt987.github.io](https://tvt987.github.io/)** | Swiss-industrial creative engineering portfolio with **WebGL2 GLSL 60-step SDF Raymarching**, Dedicated **Web Worker** Raft/HNSW/Consistent-Hash lab, **View Transitions API** circular wipe, and **Web Audio** tactile synthesis. |
+
+---
+
 ### Engineering Background & Production Experience
 
-I am a **Full-Stack .NET & Applied AI Engineer** with 3+ years of software development experience shipping production retail backend APIs, Angular workflows, SQL Server/Dapper data access layers, and Python/FastAPI LLM & RAG automation.
+I am a **Full-Stack .NET / Python & Applied AI Systems Engineer** with 3+ years of software development experience shipping production retail backend APIs, Angular/React workflows, SQL Server/Dapper data access layers, and Python/FastAPI LLM & agentic protocol systems.
 
-- **Full-Stack Developer @ Con Cung** *(Nov 2023 – Present — Vietnam's nationwide mother-and-baby retail chain)*:
+- **Full-Stack Developer @ Con Cung** *(Nov 2023 – Present — Vietnam's nationwide mother-and-baby retail chain, 700+ stores)*:
   - Delivered **.NET & AngularJS voucher search, creation, and update workflows** with permission checks, promotion validation, and pre-batch Excel preview.
   - Mapped **SQL Server stored procedures to typed Dapper models** across 7 subscription benefit calculations (3-, 6-, and 12-month plans) and verified ERP API contracts.
   - Designed retail data structures (shelves, facings, display groups) for store-layout optimization and implemented **Keycloak JWT / OAuth 2.0 / OIDC** authentication and RBAC.
@@ -24,49 +41,20 @@ I am a **Full-Stack .NET & Applied AI Engineer** with 3+ years of software devel
 
 ---
 
-### Remote B2B / Fixed-Scope Freelance Services
-*Available immediately for remote B2B contracts, async feature delivery, and fixed-scope milestones (`UTC+7`, flexible EU/APAC/US overlap) — transparent entry pricing **`$25–$45/hr USD`** or **`$400–$1,500` per milestone**:*
-
-| Service Engagement | Scope & Deliverables | Target Budget |
-| :--- | :--- | :--- |
-| **1. SQL Server / Dapper Query & API Optimization** | Execution plan audit, stored procedure & Dapper refactor, N+1 removal, Redis cache-aside guard | **$400 – $800** *(Milestone)* |
-| **2. .NET 8 Web API, Concurrency & Idempotency** | Clean Architecture REST endpoints, optimistic locking (`RowVersion`), idempotency keys, xUnit + integration tests | **$25 – $45/hr** *(or Fixed Sprint)* |
-| **3. Python FastAPI RAG & AI Workflow Automation** | Document parsing + Qdrant/vector retrieval with citations, Pydantic output validation, n8n pipelines | **$600 – $1,500** *(Milestone)* |
-
----
-
 ### Core Technology Matrix
 
-```mermaid
-flowchart LR
-    A[Client Apps / Angular 19 / React] --> B[ASP.NET Core .NET 8 / FastAPI]
-    B --> C[Keycloak OAuth 2.0 / OIDC / RBAC]
-    B --> D[(Redis Cache & Atomic Lua)]
-    B --> E[(SQL Server / Dapper / PostgreSQL)]
-    B --> F[Qdrant Vector DB / LLM & n8n Pipelines]
-```
-
-- **Backend & Concurrency**: C#, .NET 8, ASP.NET Core, Minimal APIs, Dapper, EF Core, Clean Architecture, RabbitMQ, Polly, FluentValidation, xUnit.
-- **Data & Caching**: Microsoft SQL Server (Stored Procedures, Indexing, Query Tuning, RowVersion), PostgreSQL, Redis (Atomic Lua Scripting, Cache-Aside).
-- **Frontend**: Angular, Angular 19 (RxJS, NgRx SignalStore), AngularJS, TypeScript, JavaScript, React, Tailwind CSS.
-- **Applied AI & Automation**: Python, FastAPI, LangChain (LCEL), Qdrant, RAG with citation verification & abstention, Pydantic, n8n, Docker, GitHub Actions CI/CD.
+- **Backend & Concurrency**: C#, `.NET 8/10`, ASP.NET Core, Minimal APIs, Dapper, EF Core, `System.Threading.Channels`, SQL Server, PostgreSQL, Redis Atomic Lua, RabbitMQ Quorum, Polly v8, OpenTelemetry.
+- **Agentic AI & Protocols**: Python `3.12`, FastAPI, **MCP Server/Client (`JSON-RPC 2.0` / Streamable HTTP / Stdio)**, **A2A Protocol**, **AG-UI / Generative UI**, **LangGraph Checkpointing & Forking**, Hybrid RAG (`Okapi BM25 + Dense Vector RRF`), Qdrant, Prompt-Injection Guardrails, **OpenTelemetry GenAI**.
+- **Frontend, Local-First & Graphics**: **React 19**, TypeScript, **Angular 19** (`RxJS`, `NgRx SignalStore`), Tailwind CSS v4, **DuckDB-WASM**, **Apache Arrow**, **Yjs CRDT**, **WebGPU (`WGSL`)**, **Three.js PBR / WebGL2 GLSL**, **Lenis + GSAP**, **Web Audio API DSP**, **TanStack Table/Virtual**, **View Transitions API**.
 
 ---
 
-### Featured Verified Public Repositories
+### Additional Reference Repositories
 
-0. **[Hyperion Atelier — Real-Time WebGL2 SDF Raymarching & Off-Main-Thread Distributed/Vector Lab (React 19 + Three.js GLSL + Web Workers)](https://github.com/tvt987/hyperion-atelier)** · **[Live Primary Domain (tvt987.github.io)](https://tvt987.github.io/)**
-   Swiss-industrial creative engineering studio featuring 60-step GLSL Signed-Distance-Field ferrofluid raymarching, dedicated Web Worker simulations (Consistent Hashing virtual-token failover, 5-node Raft Consensus quorum election, 3-layer 384-d HNSW vector beam search), native View Transitions circular aperture morphing, procedural Web Audio synthesis, Lenis & GSAP.
-1. **[⚡ AegisPulse — Distributed Concurrency Kernel & Autonomous SRE Control Plane (.NET 10 + FastAPI Hybrid RAG + React 19)](https://github.com/tvt987/aegispulse-distributed-sre)** · **[🚀 Live Interactive Control Plane](https://tvt987.github.io/aegispulse-distributed-sre/)**
-   Flagship polyglot system pairing a high-throughput C# / `.NET 10` transaction kernel (**`139,099 RPS`**, **`0` double-spend leaks** across `10,000` concurrent bursts, lock-free atomic quota + `System.Threading.Channels` write-behind WAL, SHA-256 `Idempotency-Key` `409` guard, W3C OpenTelemetry trace waterfall) with a Python `3.12` FastAPI **Okapi BM25 + 384-d Dense Vector RRF (`k=60`)** SRE Co-Pilot (**`100%` Recall@1**, **`100%` adversarial OOD abstention**) and dual-runtime React 19 Mission Control (`18/18` `.NET + Python + Vitest` tests passing in GitHub Actions CI).
-2. **[High-Concurrency Voucher Engine (.NET 8 + Redis + Dapper)](https://github.com/tvt987/high-concurrency-voucher-engine)**
-   Reference architecture for flash-sale voucher redemption featuring Redis atomic Lua quota guards, SQL Server `RowVersion` optimistic concurrency, strict idempotency keys, k6 stress-test scripts, Docker Compose + SQL DDL, and an automated xUnit concurrency test suite.
-3. **[Partner Integration BFF (.NET 8 + RabbitMQ + Polly)](https://github.com/tvt987/partner-integration-bff)**
-   Resilient Backend-for-Frontend handling partner transactions with constant-time API-key auth, FluentValidation, idempotent `202` replay / `409` conflict semantics, Polly retry/timeout policies, `ProblemDetails`, and `WebApplicationFactory` integration tests.
-4. **[Retail RAG Assistant (Python + FastAPI + Qdrant + LangChain)](https://github.com/tvt987/retail-rag-assistant)**
-   Document question-answering API with Markdown/HTML/PDF preprocessing, Qdrant vector retrieval, LangChain LCEL citations, low-confidence abstention / extractive fallback, and automated groundedness evaluation tests in CI.
-5. **[Support Ticket AI Triage (Python + FastAPI + SQLite + Docker)](https://github.com/tvt987/support-ticket-ai-triage)**
-   Automated LLM triage service for 5 ticket categories with PII/contact masking, rule-based urgency overrides, token-protected human review endpoints, and verified persistence/HTTP scenario tests.
+- **[High-Concurrency Voucher Engine (.NET 8 + Redis Lua + Dapper)](https://github.com/tvt987/high-concurrency-voucher-engine)** — 2-stage double-spending prevention (`RowVersion` + `IdempotencyKeys`), Docker Compose, k6 stress scripts, and xUnit concurrency regression tests.
+- **[Partner Integration BFF (.NET 8 + RabbitMQ + Polly)](https://github.com/tvt987/partner-integration-bff)** — Constant-time API-key auth, FluentValidation, idempotent `202`/`409` replay semantics, Polly circuit breaker, and `WebApplicationFactory` integration tests.
+- **[Retail RAG Assistant (Python + FastAPI + Qdrant + LangChain)](https://github.com/tvt987/retail-rag-assistant)** — Cited document QA with low-confidence abstention, extractive fallback, and groundedness evaluation tests in CI.
+- **[Support Ticket AI Triage (Python + FastAPI + SQLite + Docker)](https://github.com/tvt987/support-ticket-ai-triage)** — Automated 5-category LLM triage with PII/contact masking and token-protected human review.
 
 ---
 
