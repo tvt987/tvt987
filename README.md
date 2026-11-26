@@ -1,11 +1,15 @@
 ﻿<h1 align="center">Truong Van Tinh</h1>
-<h3 align="center">Full-Stack .NET / Python & Applied AI Systems Engineer | High-Throughput Backend, Agentic Protocols & Remote B2B Contractor</h3>
+<h3 align="center">Full-Stack .NET / Python & Applied AI Systems Engineer | High-Throughput Backend, Agentic Protocols, Interactive Canvas & Remote B2B Contractor</h3>
 
 <p align="center">
   <a href="https://tvt987.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Hyperion%20Atelier%20v2.0-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interactive Portfolio" /></a>
+  <a href="https://tvt987.github.io/atelier-canvas/" target="_blank"><img src="https://img.shields.io/badge/Atelier%20Canvas-Figma%20Studio%20%2B%20Dev%20Mode-6366f1?style=for-the-badge" alt="Atelier Canvas Live" /></a>
+  <a href="https://tvt987.github.io/maison-vera/" target="_blank"><img src="https://img.shields.io/badge/Maison%20V%C3%A9ra-Editorial%203D%20Luxury%20Store-b84a27?style=for-the-badge" alt="Maison Vera Live" /></a>
   <a href="https://tvt987.github.io/nexus-lake/" target="_blank"><img src="https://img.shields.io/badge/Nexus%20Lake-DuckDB--WASM%20%2B%20Yjs%20%2B%20MCP-ff5500?style=for-the-badge" alt="Nexus Lake Live" /></a>
+</p>
+<p align="center">
   <a href="https://tvt987.github.io/verdict-graph/" target="_blank"><img src="https://img.shields.io/badge/Verdict%20Graph-MCP%20x%20A2A%20x%20AG--UI-38bdf8?style=for-the-badge" alt="Verdict Graph Live" /></a>
-  <a href="https://tvt987.github.io/aether-acoustics/" target="_blank"><img src="https://img.shields.io/badge/Aether%20Acoustics-3D%20PBR%20Store%20%2B%20DSP-c8a97e?style=for-the-badge" alt="Aether Acoustics Live" /></a>
+  <a href="https://tvt987.github.io/aether-acoustics/" target="_blank"><img src="https://img.shields.io/badge/Aether%20Acoustics-3D%20PBR%20Audio%20%2B%20DSP-c8a97e?style=for-the-badge" alt="Aether Acoustics Live" /></a>
   <a href="https://tvt987.github.io/aegispulse-distributed-sre/" target="_blank"><img src="https://img.shields.io/badge/AegisPulse-139K%20RPS%20.NET%2010%20%2B%20RAG-10b981?style=for-the-badge" alt="AegisPulse Live" /></a>
 </p>
 <p align="center">
@@ -16,13 +20,15 @@
 
 ---
 
-### Live Interactive Flagship Systems (100% CI Green · Zero-Setup GitHub Pages)
+### Live Interactive Flagship Systems (7 Live Apps · 116+ CI Tests Green · Zero-Setup GitHub Pages)
 
 | Flagship System | Live Demo | Stack & Verified Benchmarks |
 | :--- | :--- | :--- |
+| **[Atelier Canvas](https://github.com/tvt987/atelier-canvas)** | **[Live Design Studio](https://tvt987.github.io/atelier-canvas/)** | Browser **Figma × Framer** vector & UI design studio: infinite pan/zoom + pixel rulers, 9 tools, 6px **Smart Snap Guides**, Undo/Redo, 4 curated templates, live **Design Tokens** theme morphing, **Dev Mode** redlines + **React 19 / Tailwind v4 / SVG / 2x PNG** real export, and **Yjs CRDT** multiplayer (`12/12` Vitest CI). |
+| **[Maison Véra](https://github.com/tvt987/maison-vera)** | **[Live Luxury Store](https://tvt987.github.io/maison-vera/)** | Editorial luxury fashion & eyewear e-commerce storefront: **Three.js PBR** 3D sculpted titanium eyewear hero, 12-SKU dual-angle catalog + faceted search/filter, **Shop-The-Look `-10%` bundle hotspots**, live **`USD`/`VNĐ` & `EN`/`VI`**, Wishlist, gift wrap, idempotent promo codes, and 3-step checkout with order tracking (`20/20` Vitest CI). |
 | **[Nexus Lake](https://github.com/tvt987/nexus-lake)** | **[Live Workbench](https://tvt987.github.io/nexus-lake/)** | Self-hosted **DuckDB-WASM** + **Apache Arrow** (100K–500K rows in-browser), **Yjs CRDT** offline partition/merge (`166 B` delta), **WebGPU WGSL** anomaly canvas, **AG-UI** Generative BI Copilot, standalone **TypeScript MCP Server** with SQL AST guardrails (`22/22` Vitest CI). |
 | **[Verdict Graph](https://github.com/tvt987/verdict-graph)** | **[Live Control Plane](https://tvt987.github.io/verdict-graph/)** | Polyglot **Python 3.12 FastAPI** + **React 19** cyclic 6-node multi-agent orchestrator with **MCP 2.0**, **A2A AgentCard/Tasks**, **AG-UI SSE**, **HITL interrupts**, indirect prompt-injection blocking (`INJ-EXFIL-001`), immutable **Time-Travel Checkpoint Forking** (`+0.38` groundedness, `-52.2%` cost), and **OpenTelemetry GenAI** waterfall (`27/27` Pytest + Vitest CI). |
-| **[Aether Acoustics](https://github.com/tvt987/aether-acoustics)** | **[Live 3D Store](https://tvt987.github.io/aether-acoustics/)** | Luxury spatial audio e-commerce store featuring a 5-layer **Three.js PBR** 3D CNC configurator, **Lenis + GSAP** scroll-choreographed exploded anatomy, live **Web Audio API DSP** spatial audition lab, 6-SKU catalog, idempotent voucher engine, and 3-step 3D-card checkout with digital certificate (`17/17` Vitest CI). |
+| **[Aether Acoustics](https://github.com/tvt987/aether-acoustics)** | **[Live 3D Audio Store](https://tvt987.github.io/aether-acoustics/)** | Luxury spatial audio flagship store featuring a 5-layer **Three.js PBR** 3D CNC configurator, **Lenis + GSAP** scroll-choreographed exploded anatomy, live **Web Audio API DSP** spatial audition lab, 6-SKU catalog, idempotent voucher engine, and 3-step 3D-card checkout (`17/17` Vitest CI). |
 | **[AegisPulse](https://github.com/tvt987/aegispulse-distributed-sre)** | **[Live SRE Cockpit](https://tvt987.github.io/aegispulse-distributed-sre/)** | **C# `.NET 10`** high-concurrency kernel (**`139,099 RPS`**, **`0` double-spend** across `10,000` bursts, `Channel<T>` WAL, SHA-256 `Idempotency-Key` `409`) + **FastAPI Okapi BM25 + 384-d RRF** SRE Co-Pilot (`100%` Recall@1 & OOD abstention, `18/18` CI). |
 | **[Hyperion Atelier v2.0](https://github.com/tvt987/hyperion-atelier)** | **[tvt987.github.io](https://tvt987.github.io/)** | Swiss-industrial creative engineering portfolio with **WebGL2 GLSL 60-step SDF Raymarching**, Dedicated **Web Worker** Raft/HNSW/Consistent-Hash lab, **View Transitions API** circular wipe, and **Web Audio** tactile synthesis. |
 
@@ -45,7 +51,7 @@ I am a **Full-Stack .NET / Python & Applied AI Systems Engineer** with 3+ years 
 
 - **Backend & Concurrency**: C#, `.NET 8/10`, ASP.NET Core, Minimal APIs, Dapper, EF Core, `System.Threading.Channels`, SQL Server, PostgreSQL, Redis Atomic Lua, RabbitMQ Quorum, Polly v8, OpenTelemetry.
 - **Agentic AI & Protocols**: Python `3.12`, FastAPI, **MCP Server/Client (`JSON-RPC 2.0` / Streamable HTTP / Stdio)**, **A2A Protocol**, **AG-UI / Generative UI**, **LangGraph Checkpointing & Forking**, Hybrid RAG (`Okapi BM25 + Dense Vector RRF`), Qdrant, Prompt-Injection Guardrails, **OpenTelemetry GenAI**.
-- **Frontend, Local-First & Graphics**: **React 19**, TypeScript, **Angular 19** (`RxJS`, `NgRx SignalStore`), Tailwind CSS v4, **DuckDB-WASM**, **Apache Arrow**, **Yjs CRDT**, **WebGPU (`WGSL`)**, **Three.js PBR / WebGL2 GLSL**, **Lenis + GSAP**, **Web Audio API DSP**, **TanStack Table/Virtual**, **View Transitions API**.
+- **Frontend, Design Tooling, Local-First & 3D**: **React 19**, TypeScript, **Angular 19** (`RxJS`, `NgRx SignalStore`), Tailwind CSS v4, **Interactive Vector Canvas & Design Tokens / Codegen**, **DuckDB-WASM**, **Apache Arrow**, **Yjs CRDT**, **WebGPU (`WGSL`)**, **Three.js PBR / WebGL2 GLSL**, **Lenis + GSAP**, **Web Audio API DSP**, **TanStack Table/Virtual**, **View Transitions API**.
 
 ---
 
