@@ -1,8 +1,9 @@
 ﻿<h1 align="center">Truong Van Tinh — TVT Studio</h1>
-<h3 align="center">Principal Full-Stack .NET 10 / Python FastAPI & Applied AI Systems Architect | 10 Full-Stack Production Monorepos · 29 Live Web Apps · 2,003 Automated Tests Green</h3>
+<h3 align="center">Principal Full-Stack .NET 10 / Python FastAPI & Applied AI Systems Architect | 10 Full-Stack Production Monorepos · 30 Live Web Apps · 2,033 Automated Tests Green</h3>
 
 <p align="center">
   <a href="https://tvt987.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Hyperion%20v10.0-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interactive Portfolio" /></a>
+  <a href="https://tvt987.github.io/architecture-playbooks/" target="_blank"><img src="https://img.shields.io/badge/Arch%20Playbooks-5%20ADRs%20%2B%20Benchmarks-06b6d4?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Architecture Playbooks" /></a>
   <a href="https://tvt987.github.io/tvt-studio/" target="_blank"><img src="https://img.shields.io/badge/TVT%20Studio%20v7.5-26%20Systems%20%2B%20CMS-ff4d00?style=for-the-badge&logo=vercel&logoColor=white" alt="TVT Studio Storefront" /></a>
   <a href="https://tvt987.github.io/orbitalflow-saas/" target="_blank"><img src="https://img.shields.io/badge/OrbitalFlow-.NET%2010%20B2B%20SaaS-4f46e5?style=for-the-badge&logo=dotnet&logoColor=white" alt="OrbitalFlow SaaS" /></a>
   <a href="https://tvt987.github.io/vectradoc-rag/" target="_blank"><img src="https://img.shields.io/badge/VectraDoc-FastAPI%20Hybrid%20RAG-9b2c2c?style=for-the-badge&logo=fastapi&logoColor=white" alt="VectraDoc AI RAG" /></a>
