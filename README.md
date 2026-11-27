@@ -1,8 +1,9 @@
 ﻿<h1 align="center">Truong Van Tinh — TVT Studio</h1>
-<h3 align="center">Senior Full-Stack .NET 10 / Python FastAPI & Applied AI Architect | 26/26 Full-Stack Production Monorepos · 29 Live Web Apps · 12 Free Pro Tools · 3,294 Live CI Tests (3,400+ Across GitHub)</h3>
+<h3 align="center">Senior Full-Stack .NET 10 / Python FastAPI & Applied AI Architect | 26/26 Full-Stack Production Monorepos · 30 Live Web Apps · 12 Free Pro Tools · 3,330 Live CI Tests (3,450+ Across GitHub)</h3>
 
 <p align="center">
   <a href="https://tvt987.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Hyperion%20v11.5%20(56kB)-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interactive Portfolio" /></a>
+  <a href="https://tvt987.github.io/architecture-playbooks/" target="_blank"><img src="https://img.shields.io/badge/Arch%20Playbooks%20v3.0-ADR--01..06%20Live%20Labs-06b6d4?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Architecture Playbooks" /></a>
   <a href="https://tvt987.github.io/tvt-studio/" target="_blank"><img src="https://img.shields.io/badge/TVT%20Studio%20v8.5-26%20Systems%20%2B%20CMS-ff4d00?style=for-the-badge&logo=vercel&logoColor=white" alt="TVT Studio Storefront" /></a>
   <a href="https://tvt987.github.io/tvt-tools/" target="_blank"><img src="https://img.shields.io/badge/TVT%20Pro%20Tools%20v2.0-12%20Free%20Engines-f59e0b?style=for-the-badge&logo=vite&logoColor=white" alt="TVT Pro Tools" /></a>
   <a href="https://tvt987.github.io/orbitalflow-saas/" target="_blank"><img src="https://img.shields.io/badge/OrbitalFlow%20v3-.NET%2010%20B2B%20SaaS-4f46e5?style=for-the-badge&logo=dotnet&logoColor=white" alt="OrbitalFlow SaaS" /></a>
