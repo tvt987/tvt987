@@ -1,31 +1,34 @@
 ﻿<h1 align="center">Truong Van Tinh — TVT Studio</h1>
-<h3 align="center">Principal Full-Stack .NET / Python & Applied AI Systems Architect | 22 Live Production Web Apps, 10 Free Pro Tools, Executive Cloud CMS & 1,003 CI Tests Green</h3>
+<h3 align="center">Principal Full-Stack .NET / Python & Applied AI Systems Architect | 25 Live Production Web Apps, 10 Free Pro Tools, Executive Cloud CMS & 1,271 CI Tests Green</h3>
 
 <p align="center">
-  <a href="https://tvt987.github.io/tvt-studio/" target="_blank"><img src="https://img.shields.io/badge/TVT%20Studio%20v5.0-Admin%20CMS%20%2B%20Analytics-ff4d00?style=for-the-badge&logo=vercel&logoColor=white" alt="TVT Studio v5.0 Storefront" /></a>
-  <a href="https://tvt987.github.io/velox-ev-motors/" target="_blank"><img src="https://img.shields.io/badge/Velox%20EV%20v3.0-3D%20HDRI%20Hypercar-2563eb?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Velox EV Motors v3.0" /></a>
-  <a href="https://tvt987.github.io/tvt-tools/" target="_blank"><img src="https://img.shields.io/badge/TVT%20Pro%20Tools-10%20Free%20Engines-10b981?style=for-the-badge&logo=gnubash&logoColor=white" alt="TVT Pro Tools" /></a>
-  <a href="https://tvt987.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Hyperion%20Atelier%20v7.0-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interactive Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-v%C4%83n-t%C3%ACnh-651b12289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://tvt987.github.io/tvt-studio/" target="_blank"><img src="https://img.shields.io/badge/TVT%20Studio%20v5.5-22%20Webs%20%2B%20Admin%20CMS-ff4d00?style=for-the-badge&logo=vercel&logoColor=white" alt="TVT Studio v5.5 Storefront" /></a>
+  <a href="https://tvt987.github.io/aeroforge-digital-twin/" target="_blank"><img src="https://img.shields.io/badge/AeroForge-3D%20Factory%20Twin-06b6d4?style=for-the-badge&logo=threedotjs&logoColor=white" alt="AeroForge 3D Digital Twin" /></a>
+  <a href="https://tvt987.github.io/helios-quant-terminal/" target="_blank"><img src="https://img.shields.io/badge/Helios-L2%20Quant%20Terminal-10b981?style=for-the-badge&logo=tradingview&logoColor=white" alt="Helios Quant Terminal" /></a>
+  <a href="https://tvt987.github.io/chronos-horology/" target="_blank"><img src="https://img.shields.io/badge/Chronos-3D%20Tourbillon-d97706?style=for-the-badge&logo=clockify&logoColor=white" alt="Chronos Horology 3D" /></a>
+  <a href="https://tvt987.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Hyperion%20v7.5-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interactive Portfolio" /></a>
   <a href="mailto:tinhkun102@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-### Live Production Ecosystem (22 Live Web Apps · 10 Free Pro Tools · 1,003 Automated CI Tests Green · 22/22 Strict CSP)
+### Live Production Ecosystem (25 Live Web Apps · 10 Free Pro Tools · 1,271 Automated CI Tests Green · 25/25 Strict CSP)
 
 #### 1. Storefront, Free Tooling Hub & Portfolio Flagships
 
 | System | Live Production URL | Architecture, Security & Verified CI |
 | :--- | :--- | :--- |
-| **[TVT Studio v5.0](https://github.com/tvt987/tvt-studio)** | **[tvt987.github.io/tvt-studio](https://tvt987.github.io/tvt-studio/)** | Commercial **19-Website Storefront (13 VIP PRO 10M–23M₫)**: **Executive Admin Portal (`admin-ops v2` JWT-locked to owner)** with **14-Day Revenue & Visits SVG Charts**, **Non-PII Funnel Analytics (`record_site_event`)**, **Live Cloud Product CRUD & Inline Pricing (`tvt_products` ↔ `create-order v7`)**, **1–3s MBBank ↔ SePay Auto-Pay**, Google OAuth, Supabase RLS & **Source Recovery Vault** (**`47/47` CI**). |
+| **[TVT Studio v5.5](https://github.com/tvt987/tvt-studio)** | **[tvt987.github.io/tvt-studio](https://tvt987.github.io/tvt-studio/)** | Commercial **22-Website Storefront (16 VIP PRO 10M–30M₫)**: **Executive Admin Portal (`admin-ops v2` JWT-locked to owner)** with **14-Day Revenue & Visits SVG Charts**, **Non-PII Funnel Analytics (`record_site_event`)**, **Live Cloud Product CRUD & Inline Pricing (`tvt_products` ↔ `create-order v7`)**, **1–3s MBBank ↔ SePay Auto-Pay**, Google OAuth, Supabase RLS & **Source Recovery Vault** (**`47/47` CI**). |
 | **[TVT Pro Tools (10 Engines)](https://github.com/tvt987/tvt-tools)** | **[tvt987.github.io/tvt-tools](https://tvt987.github.io/tvt-tools/)** | **100% Local-First Suite of 10 Pro Tools**: `VietQR EMVCo CRC16 & A4 Standee`, `VN Gross↔Net 2026 (Law 109/2025 5 Brackets)`, `Commercial A4 Invoice PDF`, `Canvas WebP/Social Cropper`, `Mortgage & Startup Runway Lab`, `JSON→TS/C# .NET 10/Pydantic/Zod`, `Web Crypto HS256 JWT & Entropy`, `Regex & ReDoS Auditor`, `SQL Linter + Live SVG ERD`, `OKLCH + WCAG AAA Tokens` (**`41/41` CI**). |
-| **[Hyperion Atelier v7.0](https://github.com/tvt987/hyperion-atelier)** | **[tvt987.github.io](https://tvt987.github.io/)** | Frontier 2026 minimalist portfolio: **Three.js PBR 3D Studio**, **WebGPU `WGSL` Compute (32K particles)**, **Chrome Built-in AI (`LanguageModel`) + Hybrid RAG Digital Twin & JD Fit Matcher**, **View Transitions + Live Sandbox**, **Strict CSP**, **Liquid Glass** & **Gaussian Dock** (**`17/17` CI**). |
+| **[Hyperion Atelier v7.5](https://github.com/tvt987/hyperion-atelier)** | **[tvt987.github.io](https://tvt987.github.io/)** | Frontier 2026 minimalist portfolio: **Three.js PBR 3D Studio**, **WebGPU `WGSL` Compute (32K particles)**, **Chrome Built-in AI (`LanguageModel`) + Hybrid RAG Digital Twin & JD Fit Matcher**, **View Transitions + Live Sandbox**, **Strict CSP**, **Liquid Glass** & **Gaussian Dock** (**`17/17` CI**). |
 
-#### 2. VIP PRO 10M–23M₫ Flagship Platforms (Upgraded v2.0–v4.0)
+#### 2. Ultra-Flagship & VIP PRO 10M–30M₫ Platforms (16 Enterprise Systems)
 
 | Production System | Live Demo | Capabilities & Verified CI |
 | :--- | :--- | :--- |
+| **[AeroForge 3D Digital Twin](https://github.com/tvt987/aeroforge-digital-twin)** | **[Live 3D Smart Factory](https://tvt987.github.io/aeroforge-digital-twin/)** | **29.9M₫ Ultra-Flagship**: **Three.js HDRI Smart Factory Floor**, **6-Axis Articulated CNC Robot (Real FK/IK Kinematics)**, Optical QA Conveyor & AGV Fleet, **FLIR Ironbow Thermal IR Mode**, **ISO 10816 Bearing Vibration FFT & Weibull RUL AI**, **VN EVN 3-Tier Solar/BESS Optimizer** & MBBank VietQR (**`83/83` CI**). |
+| **[Helios Quant Terminal](https://github.com/tvt987/helios-quant-terminal)** | **[Live Quant Exchange](https://tvt987.github.io/helios-quant-terminal/)** | **28.9M₫ Ultra-Flagship**: **Deterministic FIFO L2 Orderbook (`15×15`)** across 6 markets (**incl. `VN30F1M` & `BTC/USDT`**), **60fps HiDPI Canvas Candlesticks (`EMA/BB/VWAP/RSI/MACD`)**, Liquidity Shock Lab (`Flash Crash / Short Squeeze / Whale Sweep`), **500-Bar Quant Backtester (4 Algos `<5ms`, Sharpe/VaR 99%)** & MBBank VietQR (**`103/103` CI**). |
+| **[Chronos Horology 3D](https://github.com/tvt987/chronos-horology)** | **[Live 3D Tourbillon](https://tvt987.github.io/chronos-horology/)** | **26.9M₫ Ultra-Flagship**: **Working 60fps Three.js Mechanical Tourbillon Calibre** (`28,800 vph` Balance Wheel, Meshed Gear Train, **7-Layer Exploded View**, **Lume Night**, 7 Macro Cams), **Web Audio 4Hz Escapement Synth**, **ISO 3159 COSC 6-Position & 72h Torque Lab**, A4 QR Cert & MBBank VietQR (**`82/82` CI**). |
 | **[Velox EV Motors v3.0](https://github.com/tvt987/velox-ev-motors)** | **[Live 3D EV Hypercar](https://tvt987.github.io/velox-ev-motors/)** | **#1 20M₫ Flagship**: **PMREM Studio HDRI Clearcoat**, **Articulated Gullwing Doors**, **3D Cockpit POV + Live OLED Dash**, **Wind-Tunnel Aero (`Cd 0.19`)**, 4-Color Brake Calipers, `0–260 km/h` Rolling Road, **2.08s Web Audio Launch Control Dyno**, **VN 350kW Route Planner**, Fleet ROI & MBBank VietQR (**`69/69` CI**). |
 | **[AegisPulse v3.0](https://github.com/tvt987/aegispulse-distributed-sre)** | **[Live SRE Cockpit](https://tvt987.github.io/aegispulse-distributed-sre/)** | **5-Region Raft Quorum Chaos Injector**, **Live `10K–250K RPS` HPA Stress Slider**, **Interactive CPU/GC Flamegraph**, **SRE Incident Runbook Executor**, **C# `.NET 10` (`139K RPS`)**, Hybrid RAG & MBBank VietQR (**`62/62` CI**). |
 | **[Verdict Graph v3.0](https://github.com/tvt987/verdict-graph)** | **[Live AI Control Plane](https://tvt987.github.io/verdict-graph/)** | **Interactive Multi-Agent Workflow DAG Builder**, **Time-Travel Forking & JSON State Diff**, **Multi-Model FinOps Pareto Router**, **OWASP LLM Top-10 Red-Team Suite (`10/10`)**, Python FastAPI + MCP 2.0/A2A & MBBank VietQR (**`70/70` CI**). |
@@ -55,7 +58,7 @@
 
 ### Engineering Background & Commercial Production Experience
 
-I am a **Full-Stack .NET / Python & Applied AI Systems Engineer** and **Founder of TVT Studio**, with 3+ years of commercial production experience shipping enterprise retail APIs, high-conversion 3D/booking/POS web applications, SQL Server/Dapper systems, and agentic AI platforms.
+I am a **Full-Stack .NET / Python & Applied AI Systems Engineer** and **Founder of TVT Studio**, with 3+ years of commercial production experience shipping enterprise retail APIs, high-conversion 3D/booking/POS/Quant/Digital Twin web applications, SQL Server/Dapper systems, and agentic AI platforms.
 
 - **Full-Stack Developer @ Con Cung Corporation** *(Nov 2023 – Present — Vietnam's nationwide mother-and-baby retail chain, 700+ stores)*:
   - Delivered **.NET & AngularJS voucher search, creation, and update workflows** with permission checks, promotion validation, and pre-batch Excel preview.
@@ -65,17 +68,9 @@ I am a **Full-Stack .NET / Python & Applied AI Systems Engineer** and **Founder 
 
 ---
 
-### Core Technology Matrix
-
-- **Backend, Security & High Concurrency**: C#, `.NET 8/10`, ASP.NET Core, Minimal APIs, Dapper, `System.Threading.Channels`, SQL Server, PostgreSQL (`Zero-Trust RLS`), Supabase Edge Functions (Deno), Redis Atomic Lua, RabbitMQ, Polly v8, OpenTelemetry, OWASP PBKDF2-SHA256 & Strict CSP.
-- **Applied AI & Agentic Protocols**: Python `3.12`, FastAPI, **MCP 2.0 (Streamable HTTP / Stdio)**, **A2A Protocol**, **AG-UI SSE**, **LangGraph Checkpointing & Forking**, Hybrid RAG (`Okapi BM25 + Dense Vector RRF`), Qdrant, OWASP LLM Top-10 Guardrails, **OpenTelemetry GenAI**.
-- **Frontend, 3D, CAD, FinTech & Local-First**: **React 19**, TypeScript, **Angular 19**, Tailwind CSS v4, **Three.js PMREM HDRI / WebGL2 / WebGPU (`WGSL`)**, **DuckDB-WASM**, **Apache Arrow**, **Yjs CRDT**, **Web Audio HRTF DSP**, **EMVCo VietQR CRC16 / VN 2026 Payroll / Monte Carlo FIRE / 2D CAD Engines**.
-
----
-
 ### Hire Me / Order a Custom Website or IT Project
 
-- **Website Storefront (19 Live Templates & Instant Quote)**: [tvt987.github.io/tvt-studio](https://tvt987.github.io/tvt-studio/)
+- **Website Storefront (22 Live Templates & Instant Quote)**: [tvt987.github.io/tvt-studio](https://tvt987.github.io/tvt-studio/)
 - **10 Free Business & Engineering Pro Tools**: [tvt987.github.io/tvt-tools](https://tvt987.github.io/tvt-tools/)
 - **Interactive Portfolio & CV Dossier**: [tvt987.github.io](https://tvt987.github.io)
 - **Zalo / Hotline (Vietnam)**: `0931 467 024`
