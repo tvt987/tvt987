@@ -1,79 +1,59 @@
 ﻿<h1 align="center">Truong Van Tinh — TVT Studio</h1>
-<h3 align="center">Principal Full-Stack .NET / Python & Applied AI Systems Architect | 25 Live Production Web Apps, 10 Free Pro Tools, Executive Cloud CMS & 1,271 CI Tests Green</h3>
+<h3 align="center">Principal Full-Stack .NET 10 / Python FastAPI & Applied AI Systems Architect | 10 Full-Stack Production Monorepos · 29 Live Web Apps · 2,003 Automated Tests Green</h3>
 
 <p align="center">
-  <a href="https://tvt987.github.io/tvt-studio/" target="_blank"><img src="https://img.shields.io/badge/TVT%20Studio%20v5.5-22%20Webs%20%2B%20Admin%20CMS-ff4d00?style=for-the-badge&logo=vercel&logoColor=white" alt="TVT Studio v5.5 Storefront" /></a>
-  <a href="https://tvt987.github.io/aeroforge-digital-twin/" target="_blank"><img src="https://img.shields.io/badge/AeroForge-3D%20Factory%20Twin-06b6d4?style=for-the-badge&logo=threedotjs&logoColor=white" alt="AeroForge 3D Digital Twin" /></a>
-  <a href="https://tvt987.github.io/helios-quant-terminal/" target="_blank"><img src="https://img.shields.io/badge/Helios-L2%20Quant%20Terminal-10b981?style=for-the-badge&logo=tradingview&logoColor=white" alt="Helios Quant Terminal" /></a>
-  <a href="https://tvt987.github.io/chronos-horology/" target="_blank"><img src="https://img.shields.io/badge/Chronos-3D%20Tourbillon-d97706?style=for-the-badge&logo=clockify&logoColor=white" alt="Chronos Horology 3D" /></a>
-  <a href="https://tvt987.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Hyperion%20v7.5-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interactive Portfolio" /></a>
+  <a href="https://tvt987.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Hyperion%20v10.0-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interactive Portfolio" /></a>
+  <a href="https://tvt987.github.io/tvt-studio/" target="_blank"><img src="https://img.shields.io/badge/TVT%20Studio%20v7.5-26%20Systems%20%2B%20CMS-ff4d00?style=for-the-badge&logo=vercel&logoColor=white" alt="TVT Studio Storefront" /></a>
+  <a href="https://tvt987.github.io/orbitalflow-saas/" target="_blank"><img src="https://img.shields.io/badge/OrbitalFlow-.NET%2010%20B2B%20SaaS-4f46e5?style=for-the-badge&logo=dotnet&logoColor=white" alt="OrbitalFlow SaaS" /></a>
+  <a href="https://tvt987.github.io/vectradoc-rag/" target="_blank"><img src="https://img.shields.io/badge/VectraDoc-FastAPI%20Hybrid%20RAG-9b2c2c?style=for-the-badge&logo=fastapi&logoColor=white" alt="VectraDoc AI RAG" /></a>
+  <a href="https://tvt987.github.io/fleetpulse-gis/" target="_blank"><img src="https://img.shields.io/badge/FleetPulse-.NET%2010%20GIS%20CVRP-0d9488?style=for-the-badge&logo=mapbox&logoColor=white" alt="FleetPulse GIS" /></a>
+  <a href="https://tvt987.github.io/medcore-ehr/" target="_blank"><img src="https://img.shields.io/badge/MedCore-FastAPI%20HL7%20FHIR-0369a1?style=for-the-badge&logo=heart&logoColor=white" alt="MedCore Clinical EHR" /></a>
   <a href="mailto:tinhkun102@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-### Live Production Ecosystem (25 Live Web Apps · 10 Free Pro Tools · 1,271 Automated CI Tests Green · 25/25 Strict CSP)
+### 10 Full-Stack Production Monorepos (`.NET 10` / `Python FastAPI` + `React 19` + Docker + OpenAPI 3.1 + ADRs)
 
-#### 1. Storefront, Free Tooling Hub & Portfolio Flagships
+Every repository below ships a **real compiled & locally tested backend** (`dotnet test` / `pytest`), multi-stage `Dockerfile` + `docker-compose.yml`, OpenAPI 3.1 specification, Architecture Decision Records (`ADR-001/002`), code-split `React.lazy` bundles (`60–143 kB` entry), Strict CSP, and `0`-error Playwright E2E at `1440px` & `390px`.
 
-| System | Live Production URL | Architecture, Security & Verified CI |
-| :--- | :--- | :--- |
-| **[TVT Studio v5.5](https://github.com/tvt987/tvt-studio)** | **[tvt987.github.io/tvt-studio](https://tvt987.github.io/tvt-studio/)** | Commercial **22-Website Storefront (16 VIP PRO 10M–30M₫)**: **Executive Admin Portal (`admin-ops v2` JWT-locked to owner)** with **14-Day Revenue & Visits SVG Charts**, **Non-PII Funnel Analytics (`record_site_event`)**, **Live Cloud Product CRUD & Inline Pricing (`tvt_products` ↔ `create-order v7`)**, **1–3s MBBank ↔ SePay Auto-Pay**, Google OAuth, Supabase RLS & **Source Recovery Vault** (**`47/47` CI**). |
-| **[TVT Pro Tools (10 Engines)](https://github.com/tvt987/tvt-tools)** | **[tvt987.github.io/tvt-tools](https://tvt987.github.io/tvt-tools/)** | **100% Local-First Suite of 10 Pro Tools**: `VietQR EMVCo CRC16 & A4 Standee`, `VN Gross↔Net 2026 (Law 109/2025 5 Brackets)`, `Commercial A4 Invoice PDF`, `Canvas WebP/Social Cropper`, `Mortgage & Startup Runway Lab`, `JSON→TS/C# .NET 10/Pydantic/Zod`, `Web Crypto HS256 JWT & Entropy`, `Regex & ReDoS Auditor`, `SQL Linter + Live SVG ERD`, `OKLCH + WCAG AAA Tokens` (**`41/41` CI**). |
-| **[Hyperion Atelier v7.5](https://github.com/tvt987/hyperion-atelier)** | **[tvt987.github.io](https://tvt987.github.io/)** | Frontier 2026 minimalist portfolio: **Three.js PBR 3D Studio**, **WebGPU `WGSL` Compute (32K particles)**, **Chrome Built-in AI (`LanguageModel`) + Hybrid RAG Digital Twin & JD Fit Matcher**, **View Transitions + Live Sandbox**, **Strict CSP**, **Liquid Glass** & **Gaussian Dock** (**`17/17` CI**). |
-
-#### 2. Ultra-Flagship & VIP PRO 10M–30M₫ Platforms (16 Enterprise Systems)
-
-| Production System | Live Demo | Capabilities & Verified CI |
-| :--- | :--- | :--- |
-| **[AeroForge 3D Digital Twin](https://github.com/tvt987/aeroforge-digital-twin)** | **[Live 3D Smart Factory](https://tvt987.github.io/aeroforge-digital-twin/)** | **29.9M₫ Ultra-Flagship**: **Three.js HDRI Smart Factory Floor**, **6-Axis Articulated CNC Robot (Real FK/IK Kinematics)**, Optical QA Conveyor & AGV Fleet, **FLIR Ironbow Thermal IR Mode**, **ISO 10816 Bearing Vibration FFT & Weibull RUL AI**, **VN EVN 3-Tier Solar/BESS Optimizer** & MBBank VietQR (**`83/83` CI**). |
-| **[Helios Quant Terminal](https://github.com/tvt987/helios-quant-terminal)** | **[Live Quant Exchange](https://tvt987.github.io/helios-quant-terminal/)** | **28.9M₫ Ultra-Flagship**: **Deterministic FIFO L2 Orderbook (`15×15`)** across 6 markets (**incl. `VN30F1M` & `BTC/USDT`**), **60fps HiDPI Canvas Candlesticks (`EMA/BB/VWAP/RSI/MACD`)**, Liquidity Shock Lab (`Flash Crash / Short Squeeze / Whale Sweep`), **500-Bar Quant Backtester (4 Algos `<5ms`, Sharpe/VaR 99%)** & MBBank VietQR (**`103/103` CI**). |
-| **[Chronos Horology 3D](https://github.com/tvt987/chronos-horology)** | **[Live 3D Tourbillon](https://tvt987.github.io/chronos-horology/)** | **26.9M₫ Ultra-Flagship**: **Working 60fps Three.js Mechanical Tourbillon Calibre** (`28,800 vph` Balance Wheel, Meshed Gear Train, **7-Layer Exploded View**, **Lume Night**, 7 Macro Cams), **Web Audio 4Hz Escapement Synth**, **ISO 3159 COSC 6-Position & 72h Torque Lab**, A4 QR Cert & MBBank VietQR (**`82/82` CI**). |
-| **[Velox EV Motors v3.0](https://github.com/tvt987/velox-ev-motors)** | **[Live 3D EV Hypercar](https://tvt987.github.io/velox-ev-motors/)** | **#1 20M₫ Flagship**: **PMREM Studio HDRI Clearcoat**, **Articulated Gullwing Doors**, **3D Cockpit POV + Live OLED Dash**, **Wind-Tunnel Aero (`Cd 0.19`)**, 4-Color Brake Calipers, `0–260 km/h` Rolling Road, **2.08s Web Audio Launch Control Dyno**, **VN 350kW Route Planner**, Fleet ROI & MBBank VietQR (**`69/69` CI**). |
-| **[AegisPulse v3.0](https://github.com/tvt987/aegispulse-distributed-sre)** | **[Live SRE Cockpit](https://tvt987.github.io/aegispulse-distributed-sre/)** | **5-Region Raft Quorum Chaos Injector**, **Live `10K–250K RPS` HPA Stress Slider**, **Interactive CPU/GC Flamegraph**, **SRE Incident Runbook Executor**, **C# `.NET 10` (`139K RPS`)**, Hybrid RAG & MBBank VietQR (**`62/62` CI**). |
-| **[Verdict Graph v3.0](https://github.com/tvt987/verdict-graph)** | **[Live AI Control Plane](https://tvt987.github.io/verdict-graph/)** | **Interactive Multi-Agent Workflow DAG Builder**, **Time-Travel Forking & JSON State Diff**, **Multi-Model FinOps Pareto Router**, **OWASP LLM Top-10 Red-Team Suite (`10/10`)**, Python FastAPI + MCP 2.0/A2A & MBBank VietQR (**`70/70` CI**). |
-| **[Zenith Wealth v2.0](https://github.com/tvt987/zenith-wealth-fintech)** | **[Live Private Banking](https://tvt987.github.io/zenith-wealth-fintech/)** | **40-Node Markowitz Efficient Frontier + 1-Click Max Sharpe**, **4 Historical Crisis Stress-Test Replays**, Vietnam `0.1%/5%` Tax/Fee Drag, Multi-Milestone Waterfall & MBBank VietQR (**`45/45` CI**). |
-| **[CodaHR Enterprise v2.0](https://github.com/tvt987/coda-hr-payroll)** | **[Live HR & 2026 Tax](https://tvt987.github.io/coda-hr-payroll/)** | **Vietnam 2026 Law 109/2025 Payroll + Annual PIT Finalization & 13th-Month Bonus**, Department SVG Budget, **MBBank/VCB Bulk Salary CSV**, Multi-Bucket Tax-Exempt OT & Kanban ATS (**`52/52` CI**). |
-| **[Meridian Logistics v2.0](https://github.com/tvt987/meridian-logistics)** | **[Live Freight Tower](https://tvt987.github.io/meridian-logistics/)** | **3D Isometric Container Stuffing Optimizer**, **Vietnam HS Code / EVFTA / CPTPP / ACFTA Landed-Cost Engine**, Exception Control Tower, 3-Tab A4 Trade Studio & MBBank VietQR (**`60/60` CI**). |
-| **[Aurelia Resort v2.0](https://github.com/tvt987/aurelia-resort)** | **[Live 5-Star Resort](https://tvt987.github.io/aurelia-resort/)** | 30-day availability & yield heatmap, **Multi-Villa Wedding & MICE Retreat Planner (18% OTA savings)**, Day/Sunset/Starlight ambiance, Concierge Vault & live MBBank VietQR (**`48/48` CI**). |
-| **[Nexus Lake v3.0](https://github.com/tvt987/nexus-lake)** | **[Live SQL Lakehouse](https://tvt987.github.io/nexus-lake/)** | **Drag-Drop CSV/JSON Ingest + Schema Profiler**, **Multi-Cell DuckDB-WASM SQL Notebook**, **Cross-Tab Pivot Matrix**, **Cohort Retention Heatmap**, **VI/EN NL-to-SQL Copilot**, Kafka CDC & MBBank VietQR (**`65/65` CI**). |
-| **[Atelier Canvas v4.0](https://github.com/tvt987/atelier-canvas)** | **[Live Figma Studio](https://tvt987.github.io/atelier-canvas/)** | **W3C Design Tokens Studio (3 Live Themes)**, **Responsive Viewport Switcher & Flex/Grid Auto-Layout Inspector**, **Interactive Prototype Presentation Player**, **React + Tailwind v4 Exporter**, Yjs CRDT & MBBank VietQR (**`52/52` CI**). |
-| **[PulsePOS & Cloud F&B v2.0](https://github.com/tvt987/pulse-pos-fnb)** | **[Live POS + KDS SaaS](https://tvt987.github.io/pulse-pos-fnb/)** | Multi-branch POS & Table Map, **Interactive Table QR Self-Order Simulator**, **Live Kitchen Display (KDS)**, **IndexedDB Persistent Shift Ledger**, **1-Click Low-Stock Auto-PO BOM**, Offline EMVCo + Live VietQR & 80mm/A4 Print (**`43/43` CI**). |
-| **[Maison Véra v4.0](https://github.com/tvt987/maison-vera)** | **[Live 3D Luxury Store](https://tvt987.github.io/maison-vera/)** | **PMREM Studio HDRI Titanium 3D**, **Photochromic UV (`0–11`) & Polarized Lens Physics Lab**, **Face-Shape Fit & Millimeter Sabae CAD Sizing Lab**, **VIP Lookbook Certificate** & Live MBBank VietQR (**`59/59` CI**). |
-| **[Kinetix PropTech v2.0](https://github.com/tvt987/kinetix-proptech)** | **[Live Real Estate Portal](https://tvt987.github.io/kinetix-proptech/)** | Interactive Tower Elevation (Floors 18–42), CAD SVG Floorplans, **+4% Rate Stress Test & DTI Engine**, **10Y Amortization CSV BOM**, **Saved Shortlist Vault** & Live VietQR Hold (**`39/39` CI**). |
-| **[Aether Acoustics v3.0](https://github.com/tvt987/aether-acoustics)** | **[Live 3D Audio Store](https://tvt987.github.io/aether-acoustics/)** | **Binaural 3D Spatial Soundstage Radar (`PannerNode` HRTF)**, **5-Surface Room Material `RT60` Simulator**, **Live `20Hz–20kHz` & `0.0018% THD+N` SVG Analyzer**, 3D CNC Laser Plaque & Live MBBank VietQR (**`59/59` CI**). |
-
-#### 3. 6 Vertical Pro Commerce Websites (Live VietQR, A4 PDF, VI/EN & Strict CSP)
-
-| Industry Website | Live Demo | Core Interactive Engine & Verified CI |
-| :--- | :--- | :--- |
-| **[Nordic Home Atelier](https://github.com/tvt987/nordic-home-atelier)** | **[Live 2D CAD Interior](https://tvt987.github.io/nordic-home-atelier/)** | Interactive **2D CAD Room Planner** (drag, rotate 90°, snap-to-grid, collision detection), 5-grade Turnkey BOQ calculator, CSV BOM & A4 Blueprint (**`28/28` CI**). |
-| **[Solaris Academy LMS](https://github.com/tvt987/solaris-academy)** | **[Live EdTech LMS](https://tvt987.github.io/solaris-academy/)** | **Custom Zero-Eval AST Code Sandbox** with unit test grading, **SM-2 Spaced-Repetition Flashcards**, XP streaks & verifiable QR PDF certificates (**`25/25` CI**). |
-| **[Veritas Legal Studio](https://github.com/tvt987/veritas-legal-firm)** | **[Live LegalTech](https://tvt987.github.io/veritas-legal-firm/)** | Bilingual commercial contract builder (MSA/NDA/B2B/DPA), 8 toggleable clauses, **0–100 Legal Risk Analyzer (Decree 13 PDPD)** & A4 PDF export (**`26/26` CI**). |
-| **[Lumina MedSpa v2.0](https://github.com/tvt987/lumina-medspa)** | **[Live Clinic & Booking](https://tvt987.github.io/lumina-medspa/)** | Before/After drag comparator, AI Smile & Skin Quiz, **Persistent Patient Vault**, **0% Installment Simulator**, Strict CSP & A4 Clinical Dossier (**`45/45` CI**). |
-| **[Kuro Omakase](https://github.com/tvt987/kuro-omakase)** | **[Live Michelin Dining](https://tvt987.github.io/kuro-omakase/)** | **14-Seat Hinoki U-Counter + Tatami SVG Seat Map** with anti-orphan lock, smart allergen auto-substitutions, sommelier pairings & formal A4 VIP invite (**`28/28` CI**). |
-| **[Vanguard Fitness Club](https://github.com/tvt987/vanguard-fitness)** | **[Live Bio-Fitness Club](https://tvt987.github.io/vanguard-fitness/)** | **Mifflin-St Jeor BMR/TDEE/Macro + 12-Week Trajectory Simulator**, live class capacity locking + auto-waitlist, PT matcher & QR Member Pass (**`27/27` CI**). |
+| Full-Stack Monorepo | Live Production Demo | Backend Stack & Verified Test Suite | Core Engineering Capabilities |
+| :--- | :--- | :--- | :--- |
+| **[OrbitalFlow SaaS v2.0](https://github.com/tvt987/orbitalflow-saas)** | **[Live B2B SaaS](https://tvt987.github.io/orbitalflow-saas/)** | **`.NET 10` Clean Arch** · `85` Vitest + `18` xUnit = **`103` Green** | Multi-tenant orgs, 4-role **RBAC** enforcement, Pointer Drag-Drop Kanban + **`Ctrl+Z` Undo/Redo**, Issue Drawer + Safe AST Markdown, **CPM Gantt** arrows, **2-Tab Realtime BroadcastChannel**, Stripe Proration & HMAC-SHA256 Webhooks. |
+| **[VectraDoc AI v2.0](https://github.com/tvt987/vectradoc-rag)** | **[Live Hybrid RAG](https://tvt987.github.io/vectradoc-rag/)** | **`Python 3.12 FastAPI`** · `98` Vitest + `22` Pytest = **`120` Green** | Client-side **PDF FlateDecode parser**, **Okapi BM25 + TF-IDF Cosine + RRF + Reranker** (`Recall@5 100%`, `MRR 100%`, `NDCG@5 94.9%`), 4-Way A/B Comparator, Chunk Minimap, Luhn PII Guard, Optional RAM-only BYOK Streaming. |
+| **[FleetPulse GIS v2.0](https://github.com/tvt987/fleetpulse-gis)** | **[Live GIS Dispatch](https://tvt987.github.io/fleetpulse-gis/)** | **`.NET 10` + PostGIS/MQTT** · `93` Vitest + `20` xUnit = **`113` Green** | Interactive Vector Corridor Map, **Click-to-Add Stops** re-solving **CVRP Clarke-Wright + 2-Opt (`-28.6%` km in `<1ms`)**, `08:00–17:00` Shift Scrub Timeline, Live Geofence Radius Editor, Cold-Chain `-18°C` physics & A4 Manifest. |
+| **[MedCore EHR v2.0](https://github.com/tvt987/medcore-ehr)** | **[Live Clinical EHR](https://tvt987.github.io/medcore-ehr/)** | **`Python 3.12 FastAPI` FHIR** · `92` Vitest + `22` Pytest = **`114` Green** | 3-Column Hospital Workstation, **3-Channel Canvas Monitor (`ECG Lead-II + SpO2 + Capnography EtCO2`)**, RCP NEWS2 (`0–20`), **1-Click Safe Drug Auto-Substitute**, Cockcroft-Gault CrCl, Patient Admission Wizard & **HL7 FHIR R4 `$everything`**. |
+| **[AegisPulse SRE v4.0](https://github.com/tvt987/aegispulse-distributed-sre)** | **[Live SRE & Race Arena](https://tvt987.github.io/aegispulse-distributed-sre/)** | **`.NET 10` + OTel + `k6`** · `83` Vitest + `35` Backend = **`118` Green** | **Living Con Cung 700-Store Proof**: **500-Req Concurrent Voucher Race Arena** (Naive leak vs **Redis Lua + SQL Server `ROWVERSION` `0.00%` double-spend at `p99 36.6ms`**), 100-way parallel xUnit race test, `k6` 5K RPS script & 5-Region Raft Chaos. |
+| **[Helios Quant v2.0](https://github.com/tvt987/helios-quant-terminal)** | **[Live Quant Exchange](https://tvt987.github.io/helios-quant-terminal/)** | **`Python 3.12 FastAPI` Quant** · `127` Vitest + `26` Pytest = **`153` Green** | Deterministic **FIFO L2 Orderbook (`15×15`)** across 6 markets (incl. `VN30F1M`), 60fps Canvas Candlesticks, **`6×6` Sharpe Grid-Search Heatmap (`7.7ms`)**, 6-Asset Rolling Correlation Matrix & Order-Flow Imbalance Depth SVG. |
+| **[AeroForge 3D v2.0](https://github.com/tvt987/aeroforge-digital-twin)** | **[Live 3D CAD SCADA](https://tvt987.github.io/aeroforge-digital-twin/)** | **`.NET 10` SCADA/FFT** · `105` Vitest + `28` xUnit = **`133` Green** | Precision Daylight CAD Workstation, Three.js 3D Factory, **Programmable 6-Axis CNC G-Code Sequencer** (`Z < 120mm` collision interlock, `.nc` export), FLIR Ironbow IR, ISO 10816 FFT + Maintenance Downtime ROI & EVN 3-Tier BESS. |
+| **[Velox EV Motors v4.0](https://github.com/tvt987/velox-ev-motors)** | **[Live 3D EV Hypercar](https://tvt987.github.io/velox-ev-motors/)** | **`.NET 10` Dealership API** · `89` Vitest + `18` xUnit = **`107` Green** | Widebody sculpted 3D Hypercar (Matrix LED DRL, 14-fin OLED tailbar, glowing ceramic calipers, velocity active rear wing), **3-Circuit Physics Telemetry Lab**, 2.08s Launch Synth & **12-way parallel Idempotent Test-Drive Slot Locker (`409`)**. |
+| **[Chronos 3D Watch v2.0](https://github.com/tvt987/chronos-horology)** | **[Live 3D Tourbillon](https://tvt987.github.io/chronos-horology/)** | **`.NET 10` Crypto Vault** · `106` Vitest + `20` xUnit = **`126` Green** | Geneva Ivory & Racing Emerald Boutique, 60fps Mechanical 3D Tourbillon (`28,800 vph`), **Witschi Acoustic Timegrapher Canvas**, 7-Layer Exploded Calibre Inspector & **HMAC-SHA256 Digital Authenticity Passport API**. |
+| **[PulsePOS F&B v3.0](https://github.com/tvt987/pulse-pos-fnb)** | **[Live POS ↔ KDS SaaS](https://tvt987.github.io/pulse-pos-fnb/)** | **`.NET 10` Multi-Branch POS** · `63` Vitest + `24` xUnit = **`87` Green** | Sunlit Daylight Roastery POS, **Real 2-Tab Live POS ↔ Kitchen KDS Sync (`<50ms`)**, Interactive Floorplan Table Designer, **Atomic Recipe Stock Deduction (`409` + Auto-PO)** & NAPAS EMVCo VietQR CRC-16 API. |
 
 ---
 
-### Engineering Background & Commercial Production Experience
+### Storefront, Free Tooling Hub, Portfolio & 16 Additional Live Vertical Apps (`29 Live Apps Total`)
 
-I am a **Full-Stack .NET / Python & Applied AI Systems Engineer** and **Founder of TVT Studio**, with 3+ years of commercial production experience shipping enterprise retail APIs, high-conversion 3D/booking/POS/Quant/Digital Twin web applications, SQL Server/Dapper systems, and agentic AI platforms.
-
-- **Full-Stack Developer @ Con Cung Corporation** *(Nov 2023 – Present — Vietnam's nationwide mother-and-baby retail chain, 700+ stores)*:
-  - Delivered **.NET & AngularJS voucher search, creation, and update workflows** with permission checks, promotion validation, and pre-batch Excel preview.
-  - Mapped **SQL Server stored procedures to typed Dapper models** across 7 subscription benefit calculations (3-, 6-, and 12-month plans) and verified ERP API contracts.
-  - Designed retail shelf/facing data structures, implemented **Keycloak JWT / OAuth 2.0 / OIDC** RBAC, integrated **vector semantic search**, and built **n8n** & **MCP Agent** automation pipelines.
-- **Frontend Intern @ FPT Software** *(Sep 2023 – Nov 2023)*: Delivered Angular / JavaScript e-commerce UI modules, REST API integration, and mobile responsiveness fixes.
+- **[TVT Studio v7.5](https://tvt987.github.io/tvt-studio/)** — 26-System Commercial Storefront, Executive Admin Analytics (14d SVG Charts), Live Supabase Cloud CMS CRUD, 1–3s MBBank ↔ SePay Auto-Pay & Source Vault (`47/47` CI).
+- **[Hyperion Atelier v10.0](https://tvt987.github.io/)** — Global Freelance Portfolio featuring 28 Live Systems, Direct Hero Contact + 3 CV PDFs, AI Twin JD Fit Matcher & Live Compute Lab (`17/17` CI).
+- **[TVT Pro Tools](https://tvt987.github.io/tvt-tools/)** — 10 Free 100% Local-First Business & Engineering Tools (`VietQR CRC16`, `VN Gross↔Net 2026`, `A4 Invoice`, `WebP Cropper`, `Mortgage/Runway`, `JSON→TS/C#/Pydantic`, `Web Crypto JWT`, `Regex ReDoS`, `SQL SVG ERD`, `OKLCH AAA` — `41/41` CI).
+- **16 Additional Live Industry Platforms (`100% Strict CSP`, `0` Errors, `29/29` Clean)**: [Verdict Graph v3.0](https://tvt987.github.io/verdict-graph/) · [Nexus Lake v3.0](https://tvt987.github.io/nexus-lake/) · [Atelier Canvas v4.0](https://tvt987.github.io/atelier-canvas/) · [Zenith Wealth v2.0](https://tvt987.github.io/zenith-wealth-fintech/) · [CodaHR 2026 v2.0](https://tvt987.github.io/coda-hr-payroll/) · [Meridian Logistics v2.0](https://tvt987.github.io/meridian-logistics/) · [Aurelia Resort v2.0](https://tvt987.github.io/aurelia-resort/) · [Maison Véra v4.0](https://tvt987.github.io/maison-vera/) · [Kinetix PropTech v2.0](https://tvt987.github.io/kinetix-proptech/) · [Aether Acoustics v3.0](https://tvt987.github.io/aether-acoustics/) · [Nordic Home Atelier](https://tvt987.github.io/nordic-home-atelier/) · [Solaris Academy LMS](https://tvt987.github.io/solaris-academy/) · [Veritas Legal Studio](https://tvt987.github.io/veritas-legal-firm/) · [Lumina MedSpa v2.0](https://tvt987.github.io/lumina-medspa/) · [Kuro Omakase](https://tvt987.github.io/kuro-omakase/) · [Vanguard Fitness](https://tvt987.github.io/vanguard-fitness/).
 
 ---
 
-### Hire Me / Order a Custom Website or IT Project
+### Commercial Engineering Background
 
-- **Website Storefront (22 Live Templates & Instant Quote)**: [tvt987.github.io/tvt-studio](https://tvt987.github.io/tvt-studio/)
-- **10 Free Business & Engineering Pro Tools**: [tvt987.github.io/tvt-tools](https://tvt987.github.io/tvt-tools/)
-- **Interactive Portfolio & CV Dossier**: [tvt987.github.io](https://tvt987.github.io)
-- **Zalo / Hotline (Vietnam)**: `0931 467 024`
-- **Email**: [tinhkun102@gmail.com](mailto:tinhkun102@gmail.com)
+- **Full-Stack Developer @ Con Cung Corporation** *(Nov 2023 – Present · 700+ Retail Stores Nationwide)*:
+  - Engineered core **.NET 8/10 + Dapper + SQL Server + Redis** high-concurrency voucher & retail ERP workflows (**5,000+ RPS**, Optimistic Concurrency `ROWVERSION`, zero double-spending).
+  - Implemented **Keycloak OAuth 2.0 / OIDC** RBAC, **Hybrid Vector Semantic Search**, and **n8n / MCP Agent** automation pipelines.
+- **Frontend Intern @ FPT Software** *(Sep 2023 – Nov 2023)*: Angular / JavaScript e-commerce modules & REST API integration.
+
+---
+
+### Direct Freelance & Remote Contract Inquiry
+
+- **Portfolio & 3 Specialized CVs**: [tvt987.github.io](https://tvt987.github.io)
+- **Website Storefront & Instant Quote**: [tvt987.github.io/tvt-studio](https://tvt987.github.io/tvt-studio/)
+- **Email**: [tinhkun102@gmail.com](mailto:tinhkun102@gmail.com) · **Hotline / Zalo**: `+84 931 467 024`
 - **LinkedIn**: [linkedin.com/in/trương-văn-tình-651b12289](https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-v%C4%83n-t%C3%ACnh-651b12289/)
-- **Location**: Ho Chi Minh City, Vietnam (`UTC+7` · Fixed-Price Website Projects · Remote B2B Contractor `$25–$45/hr`)
+- **Availability**: Remote B2B / Deel / Wire (`UTC+7` with `4–6h` daily US/EU overlap · Fixed-Scope Projects or `$50–$75/hr`)
